@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background-color: azure;
+}
+.myTable {
+  width: 30% !important;
+}
+.myTableRow {
+  display: flex;
+  color: white !important;
+  justify-content: space-around;
+  text-align: center !important;
+}
+
+.myTableCell {
+  border: 1px solid;
+  color: white !important;
+  background-color: #616161;
+  text-align: center !important;
+
+}
